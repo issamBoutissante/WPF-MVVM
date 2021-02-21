@@ -1,0 +1,16 @@
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\bin\Debug\WPF MVVM ICommand.exe.config
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\bin\Debug\WPF MVVM ICommand.exe
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\bin\Debug\WPF MVVM ICommand.pdb
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\WPF MVVM ICommand.csprojAssemblyReference.cache
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\MainWindow.g.cs
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\App.g.cs
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\WPF MVVM ICommand_MarkupCompile.cache
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\WPF MVVM ICommand_MarkupCompile.lref
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\MainWindow.baml
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\WPF MVVM ICommand.g.resources
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\WPF_MVVM_ICommand.Properties.Resources.resources
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\WPF MVVM ICommand.csproj.GenerateResource.cache
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\WPF MVVM ICommand.csproj.CoreCompileInputs.cache
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\WPF MVVM ICommand.exe
+C:\Users\bouti\OneDrive\Documents\WPF\WPF MVVM ICommand\WPF MVVM ICommand\obj\Debug\WPF MVVM ICommand.pdb

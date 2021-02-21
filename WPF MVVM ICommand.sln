@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF MVVM ICommand", "WPF MVVM ICommand\WPF MVVM ICommand.csproj", "{468202E9-D052-4D7F-A49F-7D33FB85D7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{468202E9-D052-4D7F-A49F-7D33FB85D7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468202E9-D052-4D7F-A49F-7D33FB85D7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468202E9-D052-4D7F-A49F-7D33FB85D7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468202E9-D052-4D7F-A49F-7D33FB85D7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E050999F-FA43-4761-A047-41A42C6F57E8}
+	EndGlobalSection
+EndGlobal
