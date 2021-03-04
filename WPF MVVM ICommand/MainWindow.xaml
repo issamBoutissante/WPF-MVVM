@@ -16,13 +16,16 @@
             <Setter Property="TextAlignment" Value="Center"></Setter>
             <Style.Triggers>
                 <Trigger Property="IsMouseOver" Value="True">
-                    <Setter Property="Background" Value="Red"></Setter>
+                    <Setter Property="BorderBrush" Value="Red"></Setter>
+                    <Setter Property="BorderThickness" Value="3"></Setter>
                 </Trigger>
+                <DataTrigger Binding="{Binding ElementName=changeColor,Path=IsChecked}" Value="True">
+                    <Setter Property="Background" Value="Red"></Setter>
+                </DataTrigger>
             </Style.Triggers>
         </Style>
     </Window.Resources>
-    <StackPanel Height="200">
-
+    <StackPanel Height="240">
         <TextBox Text="{Binding N1,Mode=TwoWay}"></TextBox>
         <TextBox Text="{Binding N2,Mode=TwoWay}"></TextBox>
         <TextBox Text="{Binding Result,Mode=TwoWay}"></TextBox>
@@ -33,5 +36,6 @@
                 </Style>
             </Button.Style>
         </Button>
+        <CheckBox x:Name="changeColor" Width="100" Height="40" Content="Change Color"></CheckBox>
     </StackPanel>
 </Window>
